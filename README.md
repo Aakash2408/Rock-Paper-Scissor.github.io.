@@ -4,7 +4,7 @@
 : Score card is also shown
 
 Link for the game is:
-- https://aakash240107.github.io/Rock-Paper-Scissor.github.io./
+- https://aakash2408.github.io/Rock-Paper-Scissor.github.io./
 
 Rule for the game:
 - In this  game,palyer 1 will be playing against computer .
